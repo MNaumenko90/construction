@@ -1,0 +1,25 @@
+{
+  "name": "wave-fe",
+  "description": "front-end for wave.com.ua",
+  "main": "index.js",
+  "authors": [
+    "MaHBe <ilyxi4@mail.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "^4.2.0",
+    "jquery": "~3.1.0",
+     "jQuery-viewport-checker": "^1.8.7",
+     "font-awesome": "^4.7.0",
+    "foundation-sites": "^6.3.1",
+    "slick-carousel": "^1.6.0"
+  }
+}
