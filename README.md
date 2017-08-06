@@ -1,4 +1,4 @@
-<h4>Project: <a href="https://mnaumenko90.github.io/construction/" target="_blank">Construction</a></h4>
+<h4>Project: <a href="https://mnaumenko90.github.io/construction/build/" target="_blank">Construction</a></h4>
 <ul>
   <li><a href="https://mnaumenko90.github.io/construction/build/uslugi_zem_raboti.html">uslugi_zem_raboti</a></li>
   <li><a href="https://mnaumenko90.github.io/construction/build/uslugi_vn_otdelka.html">uslugi_vn_otdelka</a></li>
