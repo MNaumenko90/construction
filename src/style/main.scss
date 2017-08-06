@@ -952,6 +952,7 @@ ul.num {
 }
 address {
   position: relative;
+  z-index: 22;
   span {
     display: block;
     font-style: normal;
